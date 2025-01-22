@@ -7,7 +7,7 @@ Hi! I'm a passionate tech enthusiast who loves exploring the worlds of **AI**, *
 I’m also into **finance**, **sports**, and challenging myself with new ideas.  
 In my free time, I enjoy playing chess ♟️, doodling 🎨, and traveling 🌍
 
-Feel free to connect with me:
+## Feel free to connect with me:
 
 <hr>
 
@@ -30,6 +30,7 @@ Feel free to connect with me:
 
 ## 🏆 Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akarshanghawri&layout=compact&theme=radical)  <br>
+
 ![Codewars Badge](https://www.codewars.com/users/akarshanghawri/badges/small)
 
 <hr>
