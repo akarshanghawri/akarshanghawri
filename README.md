@@ -1,19 +1,23 @@
-👋 Hey there, I'm Akarshan Ghawri!
+# 👋 Hey there, I'm Akarshan Ghawri!
 
-🚀 About Me 
 <hr>
+
+## 🚀 About Me 
 Hi! I'm a passionate tech enthusiast who loves exploring the worlds of **AI**, **data science**, and **mathematics**.  
 I’m also into **finance**, **sports**, and challenging myself with new ideas.  
 In my free time, I enjoy playing chess ♟️, doodling 🎨, and traveling 🌍
 
-Feel free to connect with me
+Feel free to connect with me:
+
 <hr>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/akarshan-ghawri)  <br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/akarshan-ghawri-1420ba267)  <br>
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:akarshanghawri@gmail.com) <br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/akarshanghawri) <br>
 
-🛠️ Languages & Tools
 <hr>
+
+## 🛠️ Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -22,9 +26,15 @@ Feel free to connect with me
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
+<hr>
 
+## 🏆 Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akarshanghawri&layout=compact&theme=radical)  <br>
 ![Codewars Badge](https://www.codewars.com/users/akarshanghawri/badges/small)
+
+<hr>
+ 
+
 <!--
 **akarshanghawri/akarshanghawri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
